@@ -1,7 +1,7 @@
 # readme  
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://media.licdn.com/dms/image/D4E03AQG0AsGr7GUvuQ/profile-displayphoto-shrink_200_200/0/1676158684324?e=1681948800&v=beta&t=OIuPkuiiEaZ8LtanQKE0kqgHqVKA-N49qxbgp7pn2_s" />
+  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="[https://media.licdn.com/dms/image/D4E03AQG0AsGr7GUvuQ/profile-displayphoto-shrink_200_200/0/1676158684324?e=1681948800&v=beta&t=OIuPkuiiEaZ8LtanQKE0kqgHqVKA-N49qxbgp7pn2_](https://freeiconshop.com/wp-content/uploads/edd/linkedin-flat.png)s" />
 </a>
 
 </br>

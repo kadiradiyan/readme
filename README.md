@@ -1,7 +1,7 @@
 # readme  
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2Ff%2Fy1QwzS9KCXBxAjb0wMQ%3D%3D" />
+  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="640-chonburi-thailand-jun-03-2021-a-close-up-linkedin-logo-icon-on-white-background-american-business-and-employment-oriented-online-service-via-website-and-mobile-app-3d-illustration-rendering.jpg" />
 </a>
 
 </br>

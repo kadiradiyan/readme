@@ -1,7 +1,7 @@
-# readme  
+
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://github.com/kadiradiyan/Git_GroupStudy/blob/master/640-chonburi-thailand-jun-03-2021-a-close-up-linkedin-logo-icon-on-white-background-american-business-and-employment-oriented-online-service-via-website-and-mobile-app-3d-illustration-rendering.jpg" />
+  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://github.com/kadiradiyan/Git_GroupStudy/blob/master/src/download.png" />
 </a>
 
 </br>
@@ -25,6 +25,6 @@
 </br>
 </br>
 
-<p [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadiradiyan)](https://github.com/anuraghazra/github-readme-stats) />
+<p align="center"> <img src="c/api?username=kadiradiyan&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=kadiradiyan.kadiradiyan" />

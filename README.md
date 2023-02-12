@@ -1,7 +1,7 @@
 # readme  
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img align="left" alt="" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
 </a>
 
 </br>

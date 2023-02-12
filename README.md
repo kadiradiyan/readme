@@ -1,7 +1,7 @@
 # readme  
 
 <a href="https://www.linkedin.com/in/kadiyan/">
-  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="640-chonburi-thailand-jun-03-2021-a-close-up-linkedin-logo-icon-on-white-background-american-business-and-employment-oriented-online-service-via-website-and-mobile-app-3d-illustration-rendering.jpg" />
+  <img align="left" alt="Kadir Adiyan LinkedIn" width="22px" src="https://github.com/kadiradiyan/Git_GroupStudy/blob/master/640-chonburi-thailand-jun-03-2021-a-close-up-linkedin-logo-icon-on-white-background-american-business-and-employment-oriented-online-service-via-website-and-mobile-app-3d-illustration-rendering.jpg" />
 </a>
 
 </br>

@@ -25,6 +25,6 @@
 </br>
 </br>
 
-<p align="center"> <img src="c/api?username=kadiradiyan&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="center"> <img src="c/api?username=kadiradiyan&show_icons=true&theme=great-gatsby" alt="kadiradiyan" />
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=kadiradiyan.kadiradiyan" />

@@ -27,5 +27,5 @@
 
 <a href="https://github.com/kadiradiyan/github-readme-stats"><img alt="Kadir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kadiradiyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-![snake gif](https://github.com/kadiradiyan/kadiradiyan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kadiradiyan/readme/blob/daeee2b3a739d8f391d87448e87de236c5481921/github-contribution-grid-snake.gif)
 
